@@ -1,0 +1,11 @@
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\bin\Debug\netcoreapp2.2\MongoDBSample.deps.json
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\bin\Debug\netcoreapp2.2\MongoDBSample.runtimeconfig.json
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\bin\Debug\netcoreapp2.2\MongoDBSample.runtimeconfig.dev.json
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\bin\Debug\netcoreapp2.2\MongoDBSample.dll
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.csprojAssemblyReference.cache
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.csproj.CoreCompileInputs.cache
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.AssemblyInfoInputs.cache
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.AssemblyInfo.cs
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\bin\Debug\netcoreapp2.2\MongoDBSample.pdb
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.dll
+C:\MYDOCUMENTS\mydocument\DOTNETPROJECTS\MongoDBSample\MongoDBSample\obj\Debug\netcoreapp2.2\MongoDBSample.pdb
